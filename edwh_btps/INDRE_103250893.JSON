@@ -1,0 +1,15 @@
+﻿{
+  "r": {
+    "firstName": "JOHEL ",
+    "lastName": "MONGE NARANJO",
+    "identificationCounter": "1",
+    "gender": "MALE",
+    "personalIdNumber": "103250893",
+    "identificationTypeMD": {
+      "code": "NIC"
+    },
+    "citizenshipMD": {
+      "unLocode": "CR"
+    }
+  }
+}

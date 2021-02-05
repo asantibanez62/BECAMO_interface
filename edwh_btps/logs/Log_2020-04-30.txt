@@ -1,0 +1,327 @@
+2020/04/30 10:01:07 Inicio 
+2020/04/30 10:01:07 {
+  "r": {
+    "legalName": "ANA KAROLINA ALVARENGA CLAROS",
+    "contacts": 
+       [
+        {
+          "value": "+504 98225120",
+          "type": "MOBILE"
+        }
+      ]
+    ,
+    "bankAccounts": 
+       [
+        {
+          "bankAccountNumber": "11-121-000064-5",
+          "bankAccountDescription": "OCCIDENTE",
+          "bankLegalName": "Banco de Occidente S.A.",
+          "bankAddress": {
+            "addressLine1": "Col. Las Mesetas, contiguo Hotel Intercontinental SPS",
+            "postalAddressTypesMD": 
+               [
+                {
+                  "code": "POSTAL"
+                }
+              ]
+            ,
+            "locationMD": {
+              "unLocode": "HN"
+            }
+          },
+          "bankBranchName": "Banco de Occidente S.A.",
+          "bankAccountNumberTypeMD": {
+            "code": "OTHER"
+          },
+          "bankAccountUsageTypeMD": {
+            "code": "PC"
+          }
+        },
+        {
+          "bankAccountNumber": "21-121-001692-0",
+          "bankAccountDescription": "OCCIDENTE",
+          "bankLegalName": "Banco de Occidente S.A.",
+          "bankAddress": {
+            "addressLine1": "Col. Las Mesetas, contiguo Hotel Intercontinental SPS",
+            "postalAddressTypesMD": 
+               [
+                {
+                  "code": "POSTAL"
+                }
+              ]
+            ,
+            "locationMD": {
+              "unLocode": "HN"
+            }
+          },
+          "bankBranchName": "Banco de Occidente S.A.",
+          "bankAccountNumberTypeMD": {
+            "code": "OTHER"
+          },
+          "bankAccountUsageTypeMD": {
+            "code": "PC"
+          }
+        }
+      ]
+    ,
+    "businessTypeMD": {
+      "code": "SP"
+    },
+    "ownersMD": 
+       [
+        {
+          "uuid": "c877b07a-8af1-11ea-bb33-0242ac1a0006"
+        }
+      ]
+    ,
+    "businessThirdPartyReferenceIds": 
+       [
+        {
+          "referenceId": "1510374",
+          "referenceIdSupplier": {
+            "groupCompanyMD": {
+              "uuid": "4f9d8d35-92a3-11e8-af8b-1765ec13386a"
+            }
+          },
+          "typeOfReferenceIdMD": {
+            "code": "SUPP-ID"
+          }
+        }
+      ]
+    ,
+    "complianceRating": {
+      "dateOfRating": "2017-11-09",
+      "complianceRatingTypeMD": {
+        "code": "APPROVED"
+      }
+    },
+    "legalCountryMD": {
+      "unLocode": "HN"
+    },
+    "thirdPartyTypesMD": 
+       [
+        {
+          "code": "CS-P"
+        }
+      ]
+    
+  }
+}
+2020/04/30 10:01:07 Fin desconectar 
+2020/04/30 10:05:17 Inicio 
+2020/04/30 10:05:17 {
+   {
+    "legalName": "ANA KAROLINA ALVARENGA CLAROS",
+    "contacts": {
+      "rc_": [
+        {
+          "value": "+504 98225120",
+          "type": "MOBILE"
+        }
+      ]
+    },
+    "bankAccounts": {
+      "rk_": [
+        {
+          "bankAccountNumber": "11-121-000064-5",
+          "bankAccountDescription": "OCCIDENTE",
+          "bankLegalName": "Banco de Occidente S.A.",
+          "bankAddress": {
+            "addressLine1": "Col. Las Mesetas, contiguo Hotel Intercontinental SPS",
+            "postalAddressTypesMD": {
+              "rm_": [
+                {
+                  "code": "POSTAL"
+                }
+              ]
+            },
+            "locationMD": {
+              "unLocode": "HN"
+            }
+          },
+          "bankBranchName": "Banco de Occidente S.A.",
+          "bankAccountNumberTypeMD": {
+            "code": "OTHER"
+          },
+          "bankAccountUsageTypeMD": {
+            "code": "PC"
+          }
+        },
+        {
+          "bankAccountNumber": "21-121-001692-0",
+          "bankAccountDescription": "OCCIDENTE",
+          "bankLegalName": "Banco de Occidente S.A.",
+          "bankAddress": {
+            "addressLine1": "Col. Las Mesetas, contiguo Hotel Intercontinental SPS",
+            "postalAddressTypesMD": {
+              "rm_": [
+                {
+                  "code": "POSTAL"
+                }
+              ]
+            },
+            "locationMD": {
+              "unLocode": "HN"
+            }
+          },
+          "bankBranchName": "Banco de Occidente S.A.",
+          "bankAccountNumberTypeMD": {
+            "code": "OTHER"
+          },
+          "bankAccountUsageTypeMD": {
+            "code": "PC"
+          }
+        }
+      ]
+    },
+    "businessTypeMD": {
+      "code": "SP"
+    },
+    "ownersMD": {
+      "ro_": [
+        {
+          "uuid": "c877b07a-8af1-11ea-bb33-0242ac1a0006"
+        }
+      ]
+    },
+    "businessThirdPartyReferenceIds": {
+      "rr_": [
+        {
+          "referenceId": "1510374",
+          "referenceIdSupplier": {
+            "groupCompanyMD": {
+              "uuid": "4f9d8d35-92a3-11e8-af8b-1765ec13386a"
+            }
+          },
+          "typeOfReferenceIdMD": {
+            "code": "SUPP-ID"
+          }
+        }
+      ]
+    },
+    "complianceRating": {
+      "dateOfRating": "2017-11-09",
+      "complianceRatingTypeMD": {
+        "code": "APPROVED"
+      }
+    },
+    "legalCountryMD": {
+      "unLocode": "HN"
+    },
+    "thirdPartyTypesMD": {
+      "rs_": [
+        {
+          "code": "CS-P"
+        }
+      ]
+    }
+  }
+
+2020/04/30 10:05:17 {
+   {
+    "legalName": "ANA KAROLINA ALVARENGA CLAROS",
+    "contacts": 
+       [
+        {
+          "value": "+504 98225120",
+          "type": "MOBILE"
+        }
+      ]
+    ,
+    "bankAccounts": 
+       [
+        {
+          "bankAccountNumber": "11-121-000064-5",
+          "bankAccountDescription": "OCCIDENTE",
+          "bankLegalName": "Banco de Occidente S.A.",
+          "bankAddress": {
+            "addressLine1": "Col. Las Mesetas, contiguo Hotel Intercontinental SPS",
+            "postalAddressTypesMD": 
+               [
+                {
+                  "code": "POSTAL"
+                }
+              ]
+            ,
+            "locationMD": {
+              "unLocode": "HN"
+            }
+          },
+          "bankBranchName": "Banco de Occidente S.A.",
+          "bankAccountNumberTypeMD": {
+            "code": "OTHER"
+          },
+          "bankAccountUsageTypeMD": {
+            "code": "PC"
+          }
+        },
+        {
+          "bankAccountNumber": "21-121-001692-0",
+          "bankAccountDescription": "OCCIDENTE",
+          "bankLegalName": "Banco de Occidente S.A.",
+          "bankAddress": {
+            "addressLine1": "Col. Las Mesetas, contiguo Hotel Intercontinental SPS",
+            "postalAddressTypesMD": 
+               [
+                {
+                  "code": "POSTAL"
+                }
+              ]
+            ,
+            "locationMD": {
+              "unLocode": "HN"
+            }
+          },
+          "bankBranchName": "Banco de Occidente S.A.",
+          "bankAccountNumberTypeMD": {
+            "code": "OTHER"
+          },
+          "bankAccountUsageTypeMD": {
+            "code": "PC"
+          }
+        }
+      ]
+    ,
+    "businessTypeMD": {
+      "code": "SP"
+    },
+    "ownersMD": 
+       [
+        {
+          "uuid": "c877b07a-8af1-11ea-bb33-0242ac1a0006"
+        }
+      ]
+    ,
+    "businessThirdPartyReferenceIds": 
+       [
+        {
+          "referenceId": "1510374",
+          "referenceIdSupplier": {
+            "groupCompanyMD": {
+              "uuid": "4f9d8d35-92a3-11e8-af8b-1765ec13386a"
+            }
+          },
+          "typeOfReferenceIdMD": {
+            "code": "SUPP-ID"
+          }
+        }
+      ]
+    ,
+    "complianceRating": {
+      "dateOfRating": "2017-11-09",
+      "complianceRatingTypeMD": {
+        "code": "APPROVED"
+      }
+    },
+    "legalCountryMD": {
+      "unLocode": "HN"
+    },
+    "thirdPartyTypesMD": 
+       [
+        {
+          "code": "CS-P"
+        }
+      ]
+    
+  }
+

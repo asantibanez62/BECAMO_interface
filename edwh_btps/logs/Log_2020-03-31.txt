@@ -1,0 +1,6 @@
+2020/03/31 10:14:40 Inicio 
+2020/03/31 10:14:40 duplicado {"messageKey":"foundation.individual.message.duplicate","message":"The individual already exists.","parameters":["sin datos","HN",2]}
+2020/03/31 10:15:14 Inicio 
+2020/03/31 10:15:27 duplicado {"messageKey":"foundation.individual.message.duplicate","message":"The individual already exists.","parameters":["sin datos","HN",2]}
+2020/03/31 10:16:31 Inicio 
+2020/03/31 10:16:35 duplicado {"messageKey":"foundation.individual.message.duplicate","message":"The individual already exists.","parameters":["sin datos","HN",2]}

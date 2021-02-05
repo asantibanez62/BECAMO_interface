@@ -1,0 +1,129 @@
+﻿{
+  "r": {
+    "legalName": "RAFAEL ANTONIO CHACON ",
+    "addresses": {
+      "ra_": [
+        {
+          "addressLine1": "Desvio, a San Marcos ocotepeque, carretera internacional",
+          "postalAddressTypesMD": {
+            "rd_": [
+              {
+                "code": "LEGAL"
+              }
+            ]
+          },
+          "locationMD": {
+            "unLocode": "HN"
+          }
+        }
+      ]
+    },
+    "contacts": {
+      "rc_": [
+        {
+          "value": "+504 6635164",
+          "type": "TELEPHONE"
+        },
+        {
+          "value": "+504 98874115",
+          "type": "MOBILE"
+        }
+      ]
+    },
+    "bankAccounts": {
+      "rk_": [
+        {
+          "bankAccountNumber": "11-116-000030-2",
+          "bankAccountDescription": "OCCIDENTE",
+          "bankLegalName": "Banco de Occidente S.A.",
+          "bankAddress": {
+            "addressLine1": "Col. Las Mesetas, contiguo Hotel Intercontinental SPS",
+            "postalAddressTypesMD": {
+              "rm_": [
+                {
+                  "code": "POSTAL"
+                }
+              ]
+            },
+            "locationMD": {
+              "unLocode": "HN"
+            }
+          },
+          "bankBranchName": "Banco de Occidente S.A.",
+          "bankAccountNumberTypeMD": {
+            "code": "OTHER"
+          },
+          "bankAccountUsageTypeMD": {
+            "code": "PC"
+          }
+        },
+        {
+          "bankAccountNumber": "21-116-002966-8",
+          "bankAccountDescription": "OCCIDENTE",
+          "bankLegalName": "Banco de Occidente S.A.",
+          "bankAddress": {
+            "addressLine1": "Col. Las Mesetas, contiguo Hotel Intercontinental SPS",
+            "postalAddressTypesMD": {
+              "rm_": [
+                {
+                  "code": "POSTAL"
+                }
+              ]
+            },
+            "locationMD": {
+              "unLocode": "HN"
+            }
+          },
+          "bankBranchName": "Banco de Occidente S.A.",
+          "bankAccountNumberTypeMD": {
+            "code": "OTHER"
+          },
+          "bankAccountUsageTypeMD": {
+            "code": "PC"
+          }
+        }
+      ]
+    },
+    "businessTypeMD": {
+      "code": "SP"
+    },
+    "ownersMD": {
+      "ro_": [
+        {
+          "uuid": "nx\r\nDate: Tue, 28 Apr 2020 17:51:47 "
+        }
+      ]
+    },
+    "businessThirdPartyReferenceIds": {
+      "rr_": [
+        {
+          "referenceId": "0200008",
+          "referenceIdSupplier": {
+            "groupCompanyMD": {
+              "uuid": "4f9d8d35-92a3-11e8-af8b-1765ec13386a"
+            }
+          },
+          "typeOfReferenceIdMD": {
+            "code": "SUPP-ID"
+          }
+        }
+      ]
+    },
+    "complianceRating": {
+      "dateOfRating": "2017-11-09",
+      "complianceRatingTypeMD": {
+        "code": "APPROVED"
+      }
+    },
+    "legalCountryMD": {
+      "unLocode": "HN"
+    },
+    "thirdPartyTypesMD": {
+      "rs_": [
+        {
+          "code": "CS-P"
+        }
+      ]
+    }
+  }
+}

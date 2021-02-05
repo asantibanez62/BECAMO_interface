@@ -1,0 +1,15 @@
+﻿{
+  "r": {
+    "firstName": "ROBERTO ",
+    "lastName": "MONTERO ZELEDON",
+    "identificationCounter": "1",
+    "gender": "MALE",
+    "personalIdNumber": "103910121",
+    "identificationTypeMD": {
+      "code": "NIC"
+    },
+    "citizenshipMD": {
+      "unLocode": "CR"
+    }
+  }
+}

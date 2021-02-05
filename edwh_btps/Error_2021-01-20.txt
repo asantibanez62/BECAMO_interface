@@ -1,0 +1,5 @@
+2021/01/20 14:32:21 1,Beneficio de Café Montecristo S.A. (BECAMO),58cc5ee1-0eff-11eb-9ca3-0242ac120002,HN,,,,,,,,,'69KG',0,,,,'69KG',0,,,,,,,,
+2021/01/20 14:34:02 2,Beneficio de Café Montecristo S.A. (BECAMO),5fae4da7-0eff-11eb-9ca3-0242ac120002,HN,,,,,,,,,'69KG',0,,,,'69KG',0,,,,,,,,
+2021/01/20 14:59:25 3,Beneficio de Café Montecristo S.A. (BECAMO),9e470812-4397-11eb-a59d-0242ac150003,HN,,,,,,,,,'69KG',0,,,,'69KG',0,,,,,,,,
+2021/01/20 15:02:02 4,Beneficio de Café Montecristo S.A. (BECAMO),bb963cb0-4397-11eb-a59d-0242ac150003,HN,,,,,,,,,'69KG',0,,,,'69KG',0,,,,,,,,
+2021/01/20 15:04:36 5,Beneficio de Café Montecristo S.A. (BECAMO),76a3bc66-1ee8-11eb-9a40-0242ac130003,HN,,,,,,,,,'69KG',0,,,,'69KG',0,,,,,,,,
